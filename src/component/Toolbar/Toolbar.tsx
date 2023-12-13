@@ -8,8 +8,8 @@ const Toolbar = () => {
           <img className="w-50 h-50" src={reactLogo} alt="React Logo"/>
         </div>
         <div className="d-flex align-items-center flex-column">
-          <span>Home work 65</span>
-          <strong>Application about different content on web-page</strong>
+          <span>Home work 67</span>
+          <strong>Application of limitation of Combination Lock</strong>
         </div>
       </div>
     </nav>
